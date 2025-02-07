@@ -1,0 +1,10 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Log files
+hs_err_pid*.log
+
+# Bin directory
+bin/
